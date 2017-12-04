@@ -1,4 +1,4 @@
-# Sentiment and Popularity analysis of Presidential Candidates in Twitter on Feb 2016
+# Sentiment and Popularity Analysis of Presidential Candidates in Twitter on Feb 2016
 
 This app is an attempt to find out the Popularity and Sentiment Associated with
 each presidential Candidate .  It generates two plots : The first one shows
